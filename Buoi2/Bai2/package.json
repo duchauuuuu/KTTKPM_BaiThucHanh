@@ -1,0 +1,22 @@
+{
+  "name": "bai2",
+  "version": "1.0.0",
+  "description": "Hệ thống tích hợp: Quản lý đơn hàng + Tính thuế + Thanh toán với State, Strategy, Decorator Patterns",
+  "main": "integrated-system/index.js",
+  "scripts": {
+    "start": "node integrated-system/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design-patterns",
+    "state-pattern",
+    "strategy-pattern",
+    "decorator-pattern",
+    "order-management",
+    "tax-calculator",
+    "payment-system",
+    "integrated-system"
+  ],
+  "author": "",
+  "license": "ISC"
+}
